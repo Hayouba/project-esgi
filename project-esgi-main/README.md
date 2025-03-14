@@ -27,15 +27,13 @@
 - Your GitHub repository can serve as a portfolio for some, so it’s important to structure it well.
     I am providing a Vagrant stack in the stack folder. To launch this stack, you will need VirtualBox version 7.0.20 and Vagrant version 2.4.1. You should navigate to the stack folder. Depending on your working terminal in Windows, you need to create a variable for the script choice. If you are using CMD, then it's set SCRIPT_NAME="k3s.sh". If you are using PowerShell, then it's $env:SCRIPT_NAME="k3s.sh". Once the variable is configured, you run the command vagrant up.
 
-  ![image](https://github.com/user-attachments/assets/967c32cd-0a65-4f80-a56b-fdd9eb21ae0f)
-  
-![image](https://github.com/user-attachments/assets/fb6c3131-1d41-4daf-91b5-534e6755f63f)
+![image](https://github.com/user-attachments/assets/c6d59a3e-69d7-4592-aa45-75ce7e760177)
+
+![image](https://github.com/user-attachments/assets/d5b9ee30-338a-4094-b993-5a3774dd371d)
 
 
-![image](https://github.com/user-attachments/assets/602596da-3b8c-47dc-a23a-d212812ac2fa)
 
-![image](https://github.com/user-attachments/assets/4caa55c6-5a1e-4e12-98f3-27d5f2fea5de)
-
-![image](https://github.com/user-attachments/assets/2f7aff0c-c6ba-4a51-b5f4-02046727b6ca)   ( erreur avec la BDD je n'arrive pas à corriger ) 
+![image](https://github.com/user-attachments/assets/d0e59e39-a01a-42b6-8004-75c2bfab67dc)
+ ( erreur avec la BDD je n'arrive pas à corriger ) 
 
 
